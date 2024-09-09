@@ -17,5 +17,6 @@ return {
     11070,  --! Jio07
     842560, -- si item
     849314, -- gxt
-    848387 -- pxtric
+    848387, -- pxtric
+    163554 -- gausaja
 }
