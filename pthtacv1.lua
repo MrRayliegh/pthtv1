@@ -20,5 +20,6 @@ return {
     848387, -- pxtric
     163554, -- gausaja
     806629, -- gxt2
-    560624 -- epan
+    560624, -- epan
+    849841 --pxtric2
 }
