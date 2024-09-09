@@ -18,5 +18,6 @@ return {
     842560, -- si item
     849314, -- gxt
     848387, -- pxtric
-    163554 -- gausaja
+    163554, -- gausaja
+    806629 -- gxt2
 }
