@@ -23,5 +23,6 @@ return {
     560624, -- epan
     849841, --pxtric2
     832810, -- FadilAja
-    843622 -- FadilAja2
+    843622, -- FadilAja2
+    164535 -- gausaja
 }
