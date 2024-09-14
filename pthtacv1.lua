@@ -24,5 +24,6 @@ return {
     849841, --pxtric2
     832810, -- FadilAja
     843622, -- FadilAja2
-    164535 -- gausaja
+    164535, -- gausaja
+    846439 -- katoizumi
 }
