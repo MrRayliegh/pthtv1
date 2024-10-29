@@ -28,5 +28,6 @@ return {
     846439, -- katoizumi
     194408, -- markus liaaa26
     444, -- Moon
-    334619 --bokem
+    334619, --bokem
+    512227 -- AJ IGN
 }
