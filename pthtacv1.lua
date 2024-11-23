@@ -29,5 +29,6 @@ return {
     194408, -- markus liaaa26
     444, -- Moon
     334619, --bokem
-    512227 -- AJ IGN
+    512227, -- AJ IGN
+    580300 -- lord
 }
