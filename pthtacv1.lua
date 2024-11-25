@@ -30,5 +30,6 @@ return {
     444, -- Moon
     334619, --bokem
     512227, -- AJ IGN
-    580300 -- lord
+    580300, -- lord
+    866008 -- Happy
 }
