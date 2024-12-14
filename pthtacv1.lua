@@ -32,5 +32,5 @@ return {
     512227, -- AJ IGN
     580300, -- lord
     866008, -- Happy
-    249246 -- kamtzy
+    249246,180567 -- kamtzy
 }
