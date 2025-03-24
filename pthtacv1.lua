@@ -36,5 +36,6 @@ return {
     617669, -- sello
     735297, -- ya
     334894, -- Carl
-    916366 -- zyre
+    916366, -- zyre
+    300546 -- TRIBAL / JOEMAR
 }
