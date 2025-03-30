@@ -1,5 +1,5 @@
 return {
-    487237, -- OWNNER
+    487237,490706, -- Owner
     729294, -- Ceyhan
     731836, -- Ceyhan 
     752406, -- Abii
