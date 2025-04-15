@@ -38,5 +38,5 @@ return {
     334894, -- Carl
     916366, -- zyre
     300546, -- TRIBAL / JOEMAR
-    512227 -- AJ
+    934078 -- Lj Ashcroft
 }
