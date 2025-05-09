@@ -39,5 +39,6 @@ return {
     916366, -- zyre
     300546, -- TRIBAL / JOEMAR
     934078,476212, -- Lj Ashcroft Max
-    224864 -- airenz
+    224864, -- airenz
+    934788 -- DAFFA
 }
